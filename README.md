@@ -22,10 +22,6 @@ Unlike traditional AI systems that return a single response, GER applies a **Ret
 **RTZ (Return to Zero):**
 A recursive validation loop that forces outputs to improve until they pass defined checks.
 
-```python
-while not is_valid(output):
-    output = improve(output)
-
 
 🛡️ Core Features
 * Nullification Engine (RTZ):
