@@ -27,7 +27,6 @@ while not is_valid(output):
     output = improve(output)
 
 
-
 🛡️ Core Features
 * Nullification Engine (RTZ):
 Detects and removes logical inconsistencies
