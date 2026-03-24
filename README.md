@@ -30,10 +30,10 @@ Detects and removes logical inconsistencies
 Continuously refines outputs until optimal
 * Modular AI Modes (101 Stand Modes):
 Specialized agents for different tasks:
-Research
-Data processing
-Decompression
-Reasoning
+* Research
+* Data processing
+* Decompression
+* Reasoning
 * Truth Ledger (Experimental):
 Tracks validated outputs over time
 
@@ -51,10 +51,10 @@ cd GOLD-EXPERIENCE-REQUIEM
 Input:
 "Generate a strategy"
 GER Process:
-Generates output
-Detects weak logic
-Resets flawed parts
-Rewrites
+* Generates output
+* Detects weak logic
+* Resets flawed parts
+* Rewrites
 Output:
 Optimized strategy with validated reasoning
 
